@@ -1,0 +1,5 @@
+N_val: 100000
+fast_freq: 2.687kHz
+filename: ./../PLL_config/config_fold/pll_four_working.h
+input_freq: 160_MHz
+nom_freq: 1.341kHz

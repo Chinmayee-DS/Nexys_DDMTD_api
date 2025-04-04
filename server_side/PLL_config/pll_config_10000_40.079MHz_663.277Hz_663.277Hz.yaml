@@ -1,0 +1,5 @@
+N_val: 10000
+fast_freq: 663.277Hz
+filename: ./../PLL_config/config_fold/pll_one.h
+input_freq: 40.079_MHz
+nom_freq: 663.277Hz

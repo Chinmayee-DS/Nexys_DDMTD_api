@@ -1,0 +1,5 @@
+N_val: 1000000
+fast_freq: 663Hz
+filename: ./../PLL_config/config_fold/pll_two.h
+input_freq: 40.079_MHz
+nom_freq: 663Hz
